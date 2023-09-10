@@ -61,4 +61,3 @@ To run the script, execute the following command:
 
 ```bash
 python gaming_mat_generator.py
->>>>>>> master
