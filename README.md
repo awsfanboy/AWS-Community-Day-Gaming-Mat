@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AWS-Community-Day-Gaming-Mat
-=======
 # AWS Community Day Gaming Mat Design Generator
 
 ## Overview
