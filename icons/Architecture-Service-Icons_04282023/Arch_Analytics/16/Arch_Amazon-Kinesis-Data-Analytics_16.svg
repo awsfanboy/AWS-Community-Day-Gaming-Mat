@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon-Architecture/16/Arch_Amazon-Kinesis-Data-Analytics_16</title>
+    <g id="Icon-Architecture/16/Arch_Amazon-Kinesis-Data-Analytics_16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Architecture-BG/16/Analytics" fill="#8C4FFF">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+        <g id="Icon-Service/16/Amazon-Kinesis-Data-Analytics" transform="translate(5.000000, 5.000000)" fill="#FFFFFF">
+            <path d="M4.131,7.747 L4.131,8.835 C2.955,9.385 2.747,10.033 2.747,10.665 L1.747,10.665 C1.747,9.318 2.514,8.378 4.131,7.747 L4.131,7.747 Z M14.108,4.833 L14.108,5.833 C2.49,5.833 1,7.225 1,8.438 L0,8.438 C0,7.002 1.001,5.921 4.854,5.333 C1.001,4.745 0,3.664 0,2.228 L1,2.228 C1,3.441 2.49,4.833 14.108,4.833 L14.108,4.833 Z M14.108,3.029 L14.108,4.029 C3.244,4.029 1.747,2.093 1.747,0 L2.747,0 C2.747,0.907 2.747,3.029 14.108,3.029 L14.108,3.029 Z M13.108,12.841 L12.108,12.841 L12.108,8.841 L11.108,8.841 L11.108,12.841 L10.108,12.841 L10.108,9.841 L9.108,9.841 L9.108,12.841 L8.108,12.841 L8.108,10.841 L7.108,10.841 L7.108,12.841 L6.108,12.841 L6.108,7.841 L13.108,7.841 L13.108,12.841 Z M13.608,6.841 L5.608,6.841 C5.331,6.841 5.108,7.065 5.108,7.341 L5.108,13.341 C5.108,13.618 5.331,13.841 5.608,13.841 L13.608,13.841 C13.884,13.841 14.108,13.618 14.108,13.341 L14.108,7.341 C14.108,7.065 13.884,6.841 13.608,6.841 L13.608,6.841 Z" id="Amazon-Kinesis-Data-Analytics_Icon_16_Squid"></path>
+        </g>
+    </g>
+</svg>
