@@ -3,7 +3,7 @@
 ## Overview
 
 - This Python script generates a design filled with randomly selected AWS Architecture Icons.
-- I was inspired by the custom-made AWS Architecture Icons Mouse Pad which was given away at Poland AWS Community Day - Warsaw. Thank you, [Rafa Mitula](https://www.linkedin.com/in/rmitula/) for the support in assisting with design the Gaming Mat for AWS Community Day Aotearoa (New Zealand).
+- I was inspired by the custom-made AWS Architecture Icons Mouse Pad which was given away at Poland AWS Community Day - Warsaw. Thank you, Rafa Mitula for the support in assisting with design the Gaming Mat for AWS Community Day Aotearoa (New Zealand).
 - We gave away a special Swag "Cool Gaming Mat" at AWS Community Day Aotearoa (New Zealand), and we received such wonderful comments on the Gaming Mat which I decided to share the steps in the hope that it may help other AWS Communities. 
 
 
